@@ -1,0 +1,1 @@
+Day one of Advent of Code 2021, re-implemented in Rust to get started with the language.
